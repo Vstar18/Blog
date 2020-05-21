@@ -35,8 +35,22 @@
   * [技术-前端相关](https://github.com/Vstar18/Learn-Books/issues/3)
     #### JS
 
-      * [《你不知道的JS》(上)](https://github.com/Vstar18/Learn-Books/issues/24)--超级推荐🌟🌟🌟🌟🌟 (2020.03)
-      * [《你不知道的JS》(中)](https://github.com/Vstar18/Learn-Books/issues/27)--超级推荐🌟🌟🌟🌟🌟 (2020.04)
+      * 《你不知道的JS》(上)--超级推荐🌟🌟🌟🌟🌟 (2020.03)
+         * [上-作用域](https://github.com/Vstar18/Learn-Books/issues/34)
+         * [上-闭包](https://github.com/Vstar18/Learn-Books/issues/45)
+         * [上-This](https://github.com/Vstar18/Learn-Books/issues/46)
+         * [上-对象](https://github.com/Vstar18/Learn-Books/issues/24)
+         * [上-混合对象“类”&原型](https://github.com/Vstar18/Learn-Books/issues/25)
+         * [上-行为委托](https://github.com/Vstar18/Learn-Books/issues/26)
+      * 《你不知道的JS》(中)--超级推荐🌟🌟🌟🌟🌟 (2020.04)
+         * [中-类型](https://github.com/Vstar18/Learn-Books/issues/27)
+         * [中-原生函数](https://github.com/Vstar18/Learn-Books/issues/28)
+         * [中-强制类型转换](https://github.com/Vstar18/Learn-Books/issues/29)
+         * [中-语法](https://github.com/Vstar18/Learn-Books/issues/31)
+         * [中-混合环境javascript](https://github.com/Vstar18/Learn-Books/issues/32)
+         * [中-异步与性能-回调](https://github.com/Vstar18/Learn-Books/issues/33)
+         * [中-异步与性能-Promise](https://github.com/Vstar18/Learn-Books/issues/35)
+         * [中-异步与性能-生成器](https://github.com/Vstar18/Learn-Books/issues/36)
       * [《你不知道的JS》(下)](https://github.com/Vstar18/Learn-Books/issues/45)--超级推荐🌟🌟🌟🌟🌟 (2020.05)
       * 《 JavaScript设计模式与开发实践》
       * 《编写可维护的JavaScript》

@@ -2,7 +2,10 @@
 ✨✨个人博客（记录个人成长，专业前端方面，读书笔记等）
 
 ### 专业
-  * #### [前端](https://github.com/Vstar18/FE-knowledge-get-day-by-day)   
+  * #### [前端]
+     * 三大框架
+         * Vue
+           * [vuex刷新页面数据丢失]()
   * #### [算法](https://github.com/Vstar18/FE-knowledge-algorithm)
   
 ### 读书

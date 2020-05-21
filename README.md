@@ -5,7 +5,12 @@
   * #### 前端
      * [JS基础](https://github.com/Vstar18/FE-knowledge-JS)
      * 三大框架
-         * Vue
+         * Vue（[Vue面试题集锦](https://github.com/Vstar18/Vue-interview)）
+           * MVVM
+           * 响应式数据原理
+           * nextTick原理实现
+           * vue种如何检测数组的变化
+           * 为何vue选择异步渲染
            * [vuex刷新页面数据丢失](https://github.com/Vstar18/Blog/issues/2)
   * #### [算法](https://github.com/Vstar18/FE-knowledge-algorithm)
   

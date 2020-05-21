@@ -28,8 +28,8 @@
  *  [《局外人》](https://github.com/Vstar18/Learn-Books/issues/40) --推荐🌟🌟🌟 (2020.03)
  *  [《局外人》-加缪](https://github.com/Vstar18/Learn-Books/issues/40)--推荐🌟🌟🌟 (2020.03)
  *  [《动物庄园》-奥威尔](https://github.com/Vstar18/Learn-Books/issues/42)--推荐🌟🌟🌟 (2020.03)
- *  [《曾国藩传》-张宏杰](https://github.com/Vstar18/Learn-Books/issues/43)--推荐🌟🌟🌟🌟🌟 (2020.02)
- *  [《人生的智慧》-叔本华](https://github.com/Vstar18/Learn-Books/issues/44)--推荐🌟🌟🌟🌟🌟 (2020.02)
+ *  [《曾国藩传》-张宏杰](https://github.com/Vstar18/Learn-Books/issues/43)--超级推荐🌟🌟🌟🌟🌟 (2020.02)
+ *  [《人生的智慧》-叔本华](https://github.com/Vstar18/Learn-Books/issues/44)--超级推荐🌟🌟🌟🌟🌟 (2020.02)
 
 #### 🍇书单
   * [技术-前端相关](https://github.com/Vstar18/Learn-Books/issues/3)
@@ -66,7 +66,7 @@
 
     #### Vue
       * [《Vue深入浅出》](https://github.com/Vstar18/Learn-Books/issues/37)--推荐🌟🌟🌟🌟
-      * [《Vue快跑》](https://github.com/Vstar18/Learn-Books/issues/18)--不推荐，小白可看🌟
+      * [《Vue快跑》](https://github.com/Vstar18/Learn-Books/issues/18)--不推荐，小白可看
       
     #### 重构&设计模式
       * 《设计模式》

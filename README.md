@@ -37,8 +37,8 @@
 
       * 《你不知道的JS》(上)--超级推荐🌟🌟🌟🌟🌟 (2020.03)
          * [上-作用域](https://github.com/Vstar18/Learn-Books/issues/34)
-         * [上-闭包](https://github.com/Vstar18/Learn-Books/issues/45)
-         * [上-This](https://github.com/Vstar18/Learn-Books/issues/46)
+         * [上-闭包](https://github.com/Vstar18/Learn-Books/issues/46)
+         * [上-This](https://github.com/Vstar18/Learn-Books/issues/45)
          * [上-对象](https://github.com/Vstar18/Learn-Books/issues/24)
          * [上-混合对象“类”&原型](https://github.com/Vstar18/Learn-Books/issues/25)
          * [上-行为委托](https://github.com/Vstar18/Learn-Books/issues/26)
